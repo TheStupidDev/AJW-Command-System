@@ -6,4 +6,4 @@ A simple command system made with Python
 Used Python Modules:
 >psutil, speedtest-cli, playsound, keyboard, pywhatkit
 
-Website: sites.google.com/view/ajw-cmd-system/
+Website: [a link](https://sites.google.com/view/ajw-cmd-system/) 
