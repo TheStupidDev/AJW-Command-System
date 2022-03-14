@@ -1,7 +1,7 @@
 # AJW-Command-System
 A simple command system made with Python
 
->>> Written in Python 3.9.10
+>Written in Python 3.9.10
 
 Used Python Modules:
 >psutil
