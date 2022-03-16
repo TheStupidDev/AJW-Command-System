@@ -6,6 +6,9 @@ ___________________________________________
 Used Python Modules
 >auto-py-to-exe, psutil, speedtest-cli, playsound, keyboard, pywhatkit
 ___________________________________________
+Supported OS
+>Windows
+___________________________________________
 Mod Support
 >Feel free to mod this program using the provided source code!
 ___________________________________________
