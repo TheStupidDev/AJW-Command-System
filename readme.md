@@ -1,1 +1,1 @@
-You can download the program here! :)
+You can download the program here :)
