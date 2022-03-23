@@ -14,7 +14,5 @@ Mod Support
 ___________________________________________
 Website 
 >[ajw-cmd-system](https://sites.google.com/view/ajw-cmd-system/) 
-
-
-2022 | Alexander Jason
 ___________________________________________
+2022 | Alexander Jason
