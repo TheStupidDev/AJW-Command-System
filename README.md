@@ -10,7 +10,7 @@ Supported OS
 >Windows
 ___________________________________________
 Mod Support
->Feel free to mod this program using the provided source code!
+>Feel free to modify this program using the provided source code :)
 ___________________________________________
 Website 
 >[ajw-cmd-system](https://sites.google.com/view/ajw-cmd-system/) 
