@@ -1,2 +1,2 @@
-You can learn and download the source code here :)
+You can download and learn the source code here :)
 --------------------------------------------------
