@@ -11,6 +11,7 @@ Supported OS
 ___________________________________________
 Mod Support
 >Feel free to modify this program using the provided source code =]
+>You can submit your mod [here](https://forms.gle/TrN25mQdw7Ug3RJx7) 
 ___________________________________________
 Website 
 >[ajw-cmd-system](https://sites.google.com/view/ajw-cmd-system/) 
