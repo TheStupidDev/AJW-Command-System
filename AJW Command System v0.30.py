@@ -214,7 +214,7 @@ while True:
             print('- >countwords           : Count the total of words in a file')
             print('- >weatherinfo          : Weather information of a city')
             print('- >wikipedia            : Fetch a random or spesific wiki in Wikipedia')
-            #print('- >youtubedownloader    : Download a video from YouTube'- Removed for now because the module is bugged (from the developer)      
+            print('- >youtubedownloader    : Download a video from YouTube')
             print('- >createqr             : Generate a QR Code')
         
         elif cmd == '>credits':
