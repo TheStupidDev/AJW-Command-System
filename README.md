@@ -4,7 +4,7 @@ A simple command system made with Python
 >Written in Python 3.9.10
 ___________________________________________
 Used Python Modules
->auto-py-to-exe, psutil, speedtest-cli, googletrans, playsound, keyboard, pywhatkit, beautifulsoup4, requests
+>auto-py-to-exe, psutil, speedtest-cli, googletrans, playsound, keyboard, pywhatkit, beautifulsoup4, requests, qrcode, pytube, 
 ___________________________________________
 Supported OS
 >Windows
