@@ -17,4 +17,10 @@ ___________________________________________
 Website 
 >[ajw-cmd-system](https://sites.google.com/view/ajw-cmd-system/) 
 ___________________________________________
+>You can contribute in helping this project by donating =]
+![https://saweria.co/TheStupidDev](https://github.com/TheStupidDev/SmartWalker/blob/lainnya/image_2022-03-23_162221.png)
+
+>(Thank you!) 
+
+___________________________________________
 2022 | Alexander Jason
