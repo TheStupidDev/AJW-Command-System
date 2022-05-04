@@ -20,8 +20,8 @@ ___________________________________________
 You can contribute in helping this project by donating =]
 
 ![https://saweria.co/TheStupidDev](https://github.com/TheStupidDev/AJW-Command-System/blob/other-stuff/image_2022-05-04_175447917.png)
-
->(Thank you!) 
+>[https://saweria.co/TheStupidDev](https://saweria.co/TheStupidDev) 
+> (Thank you!) 
 
 ___________________________________________
 2022 | Alexander Jason
