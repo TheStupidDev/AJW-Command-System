@@ -1,4 +1,4 @@
-AJW Command System
+[DISCONTINUED] AJW Command System
 -------------------------------------------
 A simple command system made with Python
 >Written in Python 3.9.10
